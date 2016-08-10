@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "ckeditor": "^4.5.7",
+    "laravel-elixir": "^4.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/thienkimlove/laravel-markdown",
+  "authors": [
+    "Quan Do <do.manh.quan@vsi-international.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ckeditor": "#full/4.5.7"
+  }
+}
